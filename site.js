@@ -11,7 +11,7 @@ document.querySelectorAll("a[data-fallback]").forEach(function (a) {
   if (!box) return;
   var big = box.querySelector("img");
   function close() { box.hidden = true; big.src = ""; }
-  document.querySelectorAll(".gallery img").forEach(function (img) {
+  document.querySelectorAll(".gallery img, .fig img").forEach(function (img) {
     img.addEventListener("click", function () {
       big.src = img.currentSrc || img.src;
       big.alt = img.alt;

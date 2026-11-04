@@ -24,11 +24,7 @@ Until a file below exists in `images/`, the page loads it from the old Wix site 
 - `images/windermere-3.jpg` - [original](https://static.wixstatic.com/media/b70db8_ec9f2b4b0b8b4990b09ac2af0b62ded0~mv2.jpg)
 - `images/windermere-4.jpg` - [original](https://static.wixstatic.com/media/b70db8_a86b438c25ae40b58980a05be5d47c7a~mv2.jpg)
 - `images/windermere-6.jpg` - [original](https://static.wixstatic.com/media/b70db8_ade5cbd634e54777ab35de5d9a13d357~mv2.jpg)
-- `images/hockey-home.png` - [original](https://static.wixstatic.com/media/b70db8_db5229a6730a4304844f29342f6c0e74~mv2.png)
-- `images/hockey-1.png` - [original](https://static.wixstatic.com/media/b70db8_bb60f8b4e1fa4562b6f06b889b10aebc~mv2.png)
 - `images/spanish-1.png` - [original](https://static.wixstatic.com/media/b70db8_869240e35f124c669a3631f0a430ed03~mv2.png)
-- `images/granada-home.png` - [original](https://static.wixstatic.com/media/b70db8_db4acec6366b462b9423610d37d9e0e0~mv2.png)
-- `images/granada-1.png` - [original](https://static.wixstatic.com/media/b70db8_7f257fe4947e43ff968a5b135e84e3f5~mv2.png)
 
 ## Documents
 
